@@ -1,0 +1,794 @@
+2012-02-17 10:49:20 - Hello world!
+2012-02-17 11:00:12 - Hello world!
+2012-02-17 11:05:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:05:31 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 11:05:31 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 11:05:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:05:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:08:44 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:08:44 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 11:57:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:57:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 11:57:23 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:57:23 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 11:57:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:57:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 11:57:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 11:57:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:01:08 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:01:08 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:00 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:00 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:05 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:05 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:17 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 12:02:17 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-17 12:02:18 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 12:02:18 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-17 12:02:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:37 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:37 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:02:43 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 12:02:43 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-17 12:02:44 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:02:44 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:03:05 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:03:05 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:03:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:03:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:03:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:03:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:03:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:03:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:03:39 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 12:03:39 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-17 12:03:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:03:41 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:04:39 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:04:39 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:04:53 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:04:53 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:07:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:07:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:08:36 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:08:36 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:08:53 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:08:53 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:08:54 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:08:54 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:08:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:08:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:08:59 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:08:59 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:09:07 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:09:07 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:09:07 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:09:07 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:09:49 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:09:49 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:10:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:10:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:10:58 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:10:58 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:11:00 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:11:00 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:11:50 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-17 12:11:50 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-17 12:11:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:11:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:14:21 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:14:21 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:14:21 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:14:21 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:14:23 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:14:23 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:19:53 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:19:53 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:20:28 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:20:28 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:20:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:20:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:21:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:21:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:21:32 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:21:32 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:22:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:22:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:22:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:22:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:22:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:22:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:22:17 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:22:17 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:27:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:27:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:33:45 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:33:45 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:34:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:34:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:39:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:39:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:42:30 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:42:30 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 12:42:38 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 12:42:38 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-17 13:04:31 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-17 13:04:31 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-20 15:35:28 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-20 15:35:36 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-20 15:43:04 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-20 15:43:04 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-20 15:46:32 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-20 15:46:32 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-20 15:55:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-20 15:55:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 12:52:03 - PHP Notice:  Error: MySQL server has gone away<br />Error No: 2006<br />SELECT * FROM layout_route WHERE 'common/home' LIKE CONCAT(route, '%') AND store_id = '0' ORDER BY route ASC LIMIT 1 in C:\xampp\htdocs\reg.ru\upload\system\database\mysql.php on line 49
+2012-02-21 13:07:37 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:07:37 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:07:51 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-21 13:07:51 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-21 13:07:58 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:07:58 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:08:07 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-21 13:08:07 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-21 13:08:10 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:08:10 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:08:15 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-21 13:08:15 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-21 13:13:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:13:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:23:17 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/column_left.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:24:34 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/column_left.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:24:55 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/column_right.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:25:03 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/module/slideshow.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:26:07 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/content_top.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:26:17 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:26:17 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:26:17 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/content_bottom.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:26:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:26:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:26:25 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/footer.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:26:34 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:26:34 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:26:34 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/common/header.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 13:26:47 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:26:47 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:35:18 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:35:18 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:35:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:35:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:35:48 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:35:48 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:35:50 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:35:50 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:36:09 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:36:09 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:36:09 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:36:09 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:36:20 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:36:20 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:40:44 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:40:44 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:46:42 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:46:42 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:47:11 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:47:11 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:48:38 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:48:38 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:49:43 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:49:43 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:50:13 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:50:13 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:50:28 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:50:28 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:51:15 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:51:15 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 13:53:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 13:53:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:07:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:07:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:10:39 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:10:39 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:11:00 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:11:00 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:11:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:11:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:11:18 - ControllerCommonContentBottom : index() : route : /checkout/cart
+2012-02-21 14:11:18 - ControllerCommonContentBottom : index() : layout_id : 0
+2012-02-21 14:11:19 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/error/not_found.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 14:11:19 - ControllerCommonContentBottom : index() : route : /checkout/cart
+2012-02-21 14:11:19 - ControllerCommonContentBottom : index() : layout_id : 0
+2012-02-21 14:11:19 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/error/not_found.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 14:11:23 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:11:23 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:14:39 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:14:39 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:14:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:14:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:15:17 - ControllerCommonContentBottom : index() : route : /checkout/cart
+2012-02-21 14:15:17 - ControllerCommonContentBottom : index() : layout_id : 0
+2012-02-21 14:15:17 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/error/not_found.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 14:15:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:15:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:18:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:18:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:27:43 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:27:43 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:28:49 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:28:49 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:29:43 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:29:43 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:34:03 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:34:03 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:34:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:34:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:35:52 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:35:52 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:38:07 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:38:07 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:40:03 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:40:03 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:40:09 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:40:09 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:41:23 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:41:23 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:42:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:42:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:42:30 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:42:30 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:43:12 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:43:12 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:43:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:43:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:54:58 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:54:58 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:56:28 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 14:56:28 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 14:56:28 - PHP Notice:  Use of undefined constant text_search - assumed 'text_search' in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\common\header.tpl on line 96
+2012-02-21 15:01:06 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:01:06 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:01:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:01:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:01:28 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:01:28 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:01:55 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:01:55 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:03:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:03:41 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:03:41 - PHP Notice:  Undefined variable: text_shipping_payment in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\common\header.tpl on line 103
+2012-02-21 15:04:38 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:04:38 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:05:01 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:05:01 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:05:34 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:05:34 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:09:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:09:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:10:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:10:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:11:03 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:11:03 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:12:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:12:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:13:30 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:13:30 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:15:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:15:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:17:48 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:17:48 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:18:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:18:41 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:18:41 - PHP Notice:  Use of undefined constant footer - assumed 'footer' in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\common\home.tpl on line 3
+2012-02-21 15:18:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:18:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:22:04 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:22:04 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:22:31 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:22:31 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:27:52 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:27:52 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:27:52 - PHP Notice:  Undefined variable: banner in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\common\home.tpl on line 2
+2012-02-21 15:28:37 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:28:37 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:28:37 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:32:18 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:32:18 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:32:18 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:32:19 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:32:19 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:32:19 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:32:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:32:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:32:27 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:33:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:33:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:33:16 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:33:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:33:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:33:16 - PHP Notice:  Error: Could not load controller common/banner! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 48
+2012-02-21 15:33:38 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:33:38 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:34:54 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:34:54 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:37:18 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:37:18 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:38:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:38:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:39:08 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:39:08 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:42:57 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:42:57 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:49:19 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/module/category.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-21 15:50:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:50:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:51:05 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:51:05 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:51:15 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:51:15 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:51:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:51:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:51:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:51:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:52:38 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:52:38 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:53:06 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:53:06 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:53:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:53:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:53:39 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:53:39 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-21 15:54:42 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-21 15:54:42 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:45:34 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:45:34 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:51:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:51:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:54:05 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:54:05 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:55:35 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/module/latest.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-22 7:56:07 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:56:07 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:57:33 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:57:33 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 7:57:51 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 7:57:51 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:03:27 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:03:27 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:03:50 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:03:50 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:04:06 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:04:06 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:04:50 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:04:50 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:07:17 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 8:07:17 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 8:07:17 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/product/category.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-22 8:07:18 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 8:07:18 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 8:07:18 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/product/category.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-22 8:07:21 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:07:21 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:14:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:14:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:51:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:51:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:52:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:52:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:53:49 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:53:49 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:54:08 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:54:08 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:55:12 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:55:12 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:55:19 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:55:19 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 8:59:21 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 8:59:21 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:09:11 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:09:11 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:09:11 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/product/category.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-22 10:10:18 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:10:18 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:10:43 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:10:43 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:11:11 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:11:11 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:11:25 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:11:25 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:14:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:14:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:14:25 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:14:25 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:17:50 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:17:50 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:19:48 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:19:48 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:26:57 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:26:57 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:27:32 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:27:32 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:27:42 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:27:42 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:27:56 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:27:56 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:28:15 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:28:15 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:28:38 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:28:38 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:29:31 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:29:31 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:29:34 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:29:34 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:29:47 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:29:47 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:30:02 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:30:02 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:30:14 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:30:14 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:31:07 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:31:07 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:31:13 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:31:13 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:31:22 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:31:22 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:31:30 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:31:30 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:33:08 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:33:08 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:36:33 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:36:33 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:36:35 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:36:35 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:36:53 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:36:53 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:38:10 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:38:10 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:38:10 - PHP Notice:  Undefined index:  image in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 19
+2012-02-22 10:38:10 - PHP Notice:  Undefined index:  image in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 19
+2012-02-22 10:38:15 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:38:15 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:38:48 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:38:48 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:39:24 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:39:24 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:41:58 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:41:58 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:46:33 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:46:33 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:46:40 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:46:40 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:47:16 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:47:16 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:48:30 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:48:30 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:53:41 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:53:41 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:54:33 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:54:33 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:54:45 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:54:45 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:55:50 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 10:55:50 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 10:56:34 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:56:34 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:57:43 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:57:43 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:57:52 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:57:52 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:57:55 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:57:55 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 10:59:48 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 10:59:48 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 11:05:59 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:05:59 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:08:55 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:08:55 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:11:09 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:11:09 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:09 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:11:43 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:43 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:44 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:11:50 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:50 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:11:51 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:12:56 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 42
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:12:56 - PHP Notice:  Undefined variable: product in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 44
+2012-02-22 11:13:35 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:13:35 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:13:37 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 11:13:37 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 11:14:14 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:14:14 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-22 11:14:15 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-22 11:14:15 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-22 11:16:51 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-22 11:16:51 - ControllerCommonContentBottom : index() : layout_id : 3

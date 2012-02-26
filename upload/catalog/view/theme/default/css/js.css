@@ -1,0 +1,68 @@
+/*--- carousel end ---*/
+.js_bg{height:401px; width:990px;position:relative;background:url('../images/tail-slider.gif') 0px 0px repeat-x transparent; border-top:7px solid #cfcfcf;}
+.js_bg1{ border-top:1px solid #FFF; background:url('../images/line-hor.gif') 0 100% no-repeat transparent; padding-bottom:4px;}
+#faded 				{}
+#faded .prev, #faded .next		{display:none;}
+ ul.faded 			{list-style:none; padding:0; margin:0; }
+
+
+#faded 				{ width:990px;}
+a { outline:0; border:0; }
+.pagination_item-1			{width:230px; position:absolute; left:10px; top:10px;}
+.pagination_item-2			{width:230px;position:absolute; left:10px; top:30px;}
+.pagination_item-3			{width:230px;position:absolute; left:10px; top:52px;}
+
+.pagination_item-1:hover,
+.pagination_item-1.current			{width:230px;}
+
+.pagination_item-2:hover,
+.pagination_item-2.current			{width:230px;}
+
+.pagination_item-3:hover,
+.pagination_item-3.current			{width:230px;}
+
+.pagination_item-1 a,			
+.pagination_item-2 a,			
+.pagination_item-3 a			{ width:100%;}
+/* ******************************* */
+ul.pagination 		{position:absolute; right:0px; bottom:46px;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px; list-style:none; width:250px; height:314px; background:url('../images/bg_sub.gif') 0px 0px repeat-x #c7c7c7;
+	border-radius:19px 0 0 19px;
+	-moz-border-radius:19px 0 0 19px;
+	-webkit-border-radius:19px 0 0 19px;
+}
+ul.pagination li 	{height:84px; position:relative; display:block;}
+ul.pagination li a 	{ display:block; position:absolute; cursor:pointer;}
+.line{ position:absolute; left:0; top:103px; background:url('../images/line.gif') left bottom no-repeat transparent; width:250px; height:2px;}
+.line2{ position:absolute; left:0; top:208px; background:url('../images/line2.gif') left bottom no-repeat transparent;width:250px; height:2px;}
+
+ul.pagination li.pagination_item-1 a:hover,
+ul.pagination li.pagination_item-1.current a {background:url('../images/hover-img-1.jpg') 0px 0px repeat-x transparent!important;}
+ul.pagination li.pagination_item-2 a:hover,
+ul.pagination li.pagination_item-2.current a {background:url('../images/hover-img-2.jpg') 0px 0px repeat-x transparent!important;}
+ul.pagination li.pagination_item-3 a:hover,
+ul.pagination li.pagination_item-3.current a {background:url('../images/hover-img-3.jpg') 0px 0px repeat-x transparent!important;}
+
+ul.pagination li.pagination_item-1 a,
+ul.pagination li.pagination_item-2 a,
+ul.pagination li.pagination_item-3 a				{width:100%; height:84px; }
+
+ul.pagination li.pagination_item-1 a				{background:url('../images/img-1.png') 0px 0px no-repeat transparent;}
+ul.pagination li.pagination_item-2 a				{background:url('../images/img-2.png') 0px 0px no-repeat transparent;}
+ul.pagination li.pagination_item-3 a				{background:url('../images/img-3.png') 0px 0px no-repeat transparent;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
