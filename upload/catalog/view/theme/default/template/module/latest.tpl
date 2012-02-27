@@ -47,7 +47,7 @@
                     </li>
                     <?php } ?>
                     </ul>
-                    <li class="prods_vseparator"><img width="1" height="1" alt="" src="/catalog/view/theme/default/images/spacer.gif"></li>
+                <ul><li class="prods_vseparator"><img width="1" height="1" alt="" src="/catalog/view/theme/default/images/spacer.gif"/></li></ul>
                 <?php } ?>
         </div>  </div>  
 

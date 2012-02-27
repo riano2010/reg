@@ -204,7 +204,10 @@ class ControllerProductCategory extends Controller {
                     'tax' => $tax,
                     'rating' => $result['rating'],
                     'reviews' => sprintf($this->language->get('text_reviews'), (int) $result['reviews']),
-                    'href' => $this->url->link('product/product', 'path=' . $this->request->get['path'] . '&product_id=' . $result['product_id'])
+                    'href' => $this->url->link('product/product', 'path=' . $this->request->get['path'] . '&product_id=' . $result['product_id']),
+                    'model' => $result['model'],
+                    'manufacturer' => $result['manufacturer'],
+                    'quantity' => $result['quantity']
                 );
             }
 

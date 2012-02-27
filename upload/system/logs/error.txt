@@ -792,3 +792,407 @@
 2012-02-22 11:14:15 - ControllerCommonContentBottom : index() : layout_id : 1
 2012-02-22 11:16:51 - ControllerCommonContentBottom : index() : route : product/category
 2012-02-22 11:16:51 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 5:46:55 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 5:46:55 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 5:53:59 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 5:53:59 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:08:34 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:08:34 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:08:43 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:08:43 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:10:43 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:10:43 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:11:04 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:11:04 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:27:39 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:27:39 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:27:39 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:27:39 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:27:51 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:27:52 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:27:52 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:27:52 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:28:36 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:28:36 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:28:37 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:28:37 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:33:18 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:33:18 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:33:18 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:33:18 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:33:18 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:34:28 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:34:28 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:34:28 - PHP Notice:  Undefined index:  text_price in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:34:29 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:34:29 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:35:35 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:35:35 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_model in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:35:35 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:35:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:35:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:36:14 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:36:14 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:36:14 - PHP Notice:  Undefined index:  text_quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:36:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:36:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:37:13 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:37:13 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  manufacturer in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:37:14 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:14 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:37:14 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:37:53 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:37:53 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:53 - PHP Notice:  Undefined index:  quantity in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:37:54 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:37:54 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:38:34 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:38:34 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:38:35 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:38:35 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:39:06 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-24 6:39:06 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-24 6:39:07 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/product/product.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-24 6:39:07 - ControllerCommonContentBottom : index() : route : product/product
+2012-02-24 6:39:07 - ControllerCommonContentBottom : index() : layout_id : 2
+2012-02-24 6:39:07 - PHP Notice:  Error: Could not load template C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/default/template/product/product.tpl! in C:\xampp\htdocs\reg.ru\upload\system\engine\controller.php on line 71
+2012-02-24 6:39:08 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:39:08 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:39:09 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:39:09 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-24 6:41:55 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:41:55 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:41:55 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:41:56 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:41:56 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:41:56 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:05 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:05 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:05 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:05 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:07 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:07 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:07 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:08 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:08 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  1 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:08 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:13 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:13 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:13 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:13 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:16 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:16 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:16 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:16 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:16 - PHP Notice:  Undefined offset:  2 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:20 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:20 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:20 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:20 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:20 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:21 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:21 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  4 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 62
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 64
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 68
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 71
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 74
+2012-02-24 6:42:21 - PHP Notice:  Undefined offset:  5 in C:\xampp\htdocs\reg.ru\upload\catalog\view\theme\default\template\product\category.tpl on line 76
+2012-02-24 6:42:23 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-24 6:42:23 - ControllerCommonContentBottom : index() : layout_id : 3
+2012-02-24 6:42:23 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-24 6:42:23 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-27 10:23:59 - ControllerCommonContentBottom : index() : route : common/home
+2012-02-27 10:23:59 - ControllerCommonContentBottom : index() : layout_id : 1
