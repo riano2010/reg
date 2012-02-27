@@ -1242,3 +1242,5 @@
 2012-02-27 11:16:54 - ControllerCommonContentBottom : index() : layout_id : 3
 2012-02-27 11:16:55 - ControllerCommonContentBottom : index() : route : common/home
 2012-02-27 11:16:55 - ControllerCommonContentBottom : index() : layout_id : 1
+2012-02-27 12:52:07 - ControllerCommonContentBottom : index() : route : product/category
+2012-02-27 12:52:07 - ControllerCommonContentBottom : index() : layout_id : 3

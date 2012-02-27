@@ -22,9 +22,9 @@ define('DIR_LOGS', 'C:\xampp\htdocs\reg.ru\upload/system/logs/');
 
 // DB
 define('DB_DRIVER', 'mysql');
-define('DB_HOSTNAME', 'localhost');
-define('DB_USERNAME', 'reg_ru');
-define('DB_PASSWORD', 'reg_ru');
-define('DB_DATABASE', 'reg_ru');
+define('DB_HOSTNAME', 'nicoshop.ru');
+define('DB_USERNAME', 'riano2010_1');
+define('DB_PASSWORD', 'sTe9ra5u');
+define('DB_DATABASE', 'riano2010_1');
 define('DB_PREFIX', '');
 ?>
