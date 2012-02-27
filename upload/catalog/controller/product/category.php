@@ -335,6 +335,9 @@ class ControllerProductCategory extends Controller {
             $pagination->limit = $limit;
             $pagination->text = $this->language->get('text_pagination');
             $pagination->url = $this->url->link('product/category', 'path=' . $this->request->get['path'] . $url . '&page={page}');
+            $pagination->style_links = "fl_right result_right";
+            $pagination->style_results = "fl_left result_left";
+            
 
             $this->data['pagination'] = $pagination->render();
 

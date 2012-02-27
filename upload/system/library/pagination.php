@@ -6,10 +6,10 @@ final class Pagination {
 	public $num_links = 10;
 	public $url = '';
 	public $text = 'Showing {start} to {end} of {total} ({pages} Pages)';
-	public $text_first = '|&lt;';
-	public $text_last = '&gt;|';
-	public $text_next = '&gt;';
-	public $text_prev = '&lt;';
+	public $text_first = '<u>[&nbsp;<small>&lt;&lt;</small>&nbsp;<span>Предыдущая</span>&nbsp;]</u>';
+	public $text_last = '<u>[&nbsp;<span>Следующая</span>&nbsp;<small>&gt;&gt;</small>&nbsp;]</u>';
+	public $text_next = '';
+	public $text_prev = '';
 	public $style_links = 'links';
 	public $style_results = 'results';
 	 
@@ -74,7 +74,7 @@ final class Pagination {
 		}
 		
    		if ($page < $num_pages) {
-			$output .= ' <a href="' . str_replace('{page}', $page + 1, $this->url) . '">' . $this->text_next . '</a> <a href="' . str_replace('{page}', $num_pages, $this->url) . '">' . $this->text_last . '</a> ';
+			$output .= ' <a href="' . str_replace('{page}', $page + 1, $this->url) . '">' . $this->text_next . '</a> <a class="pageResults next" href="' . str_replace('{page}', $num_pages, $this->url) . '">' . $this->text_last . '</a> ';
 		}
 		
 		$find = array(

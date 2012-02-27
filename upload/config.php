@@ -9,16 +9,16 @@ define('HTTPS_SERVER', 'http://reg.ru/');
 define('HTTPS_IMAGE', 'http://reg.ru/image/');
 
 // DIR
-define('DIR_APPLICATION', 'C:\xampp\htdocs\reg.ru\upload/catalog/');
-define('DIR_SYSTEM', 'C:\xampp\htdocs\reg.ru\upload/system/');
-define('DIR_DATABASE', 'C:\xampp\htdocs\reg.ru\upload/system/database/');
-define('DIR_LANGUAGE', 'C:\xampp\htdocs\reg.ru\upload/catalog/language/');
-define('DIR_TEMPLATE', 'C:\xampp\htdocs\reg.ru\upload/catalog/view/theme/');
-define('DIR_CONFIG', 'C:\xampp\htdocs\reg.ru\upload/system/config/');
-define('DIR_IMAGE', 'C:\xampp\htdocs\reg.ru\upload/image/');
-define('DIR_CACHE', 'C:\xampp\htdocs\reg.ru\upload/system/cache/');
-define('DIR_DOWNLOAD', 'C:\xampp\htdocs\reg.ru\upload/download/');
-define('DIR_LOGS', 'C:\xampp\htdocs\reg.ru\upload/system/logs/');
+define('DIR_APPLICATION', 'catalog/');
+define('DIR_SYSTEM', 'system/');
+define('DIR_DATABASE', 'system/database/');
+define('DIR_LANGUAGE', 'catalog/language/');
+define('DIR_TEMPLATE', 'catalog/view/theme/');
+define('DIR_CONFIG', 'system/config/');
+define('DIR_IMAGE', 'image/');
+define('DIR_CACHE', 'system/cache/');
+define('DIR_DOWNLOAD', 'download/');
+define('DIR_LOGS', 'system/logs/');
 
 // DB
 define('DB_DRIVER', 'mysql');

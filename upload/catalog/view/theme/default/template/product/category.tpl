@@ -23,17 +23,11 @@
                 </div>	
             </div>
         </div>
-        <form method="get" action="index.php" name="filter"><p class="show"><strong>Show:</strong>&nbsp;<input type="hidden" value="1" name="cPath"><input type="hidden" value="2a" name="sort"><select class="select" onchange="this.form.submit()" name="filter_id"><option selected="selected" value="">All Manufacturers</option><option value="1">Example-1</option><option value="2">Example-2</option><option value="3">Example-3</option></select><input type="hidden" value="c30e5eb67884fbf0e63290528b1fcdcb" name="osCsid"></p></form>
-
-
-
-
-
+        
         <div class="result result1_top"><div class="result1_bottom">
 
                 <div class="cl_both result_top_padd ofh">
-                    <div class="fl_left result_left"><span>Displaying <strong>1</strong> to <strong>6</strong></span> (of <strong>6</strong> products)</div>
-                    <div class="fl_right result_right">Result Pages: &nbsp;<b>1</b>&nbsp;</div>
+                    <?php echo $pagination; ?>
                 </div>
 
             </div></div>
@@ -99,8 +93,7 @@
 
 
                 <div class="cl_both result_bottom_padd ofh">
-                    <div class="fl_left result_left"><span>Displaying <strong>1</strong> to <strong>6</strong></span> (of <strong>6</strong> products)</div>
-                    <div class="fl_right result_right">Result Pages: &nbsp;<b>1</b>&nbsp;</div>
+                    <?php echo $pagination; ?>
                 </div>
 
             </div></div>
