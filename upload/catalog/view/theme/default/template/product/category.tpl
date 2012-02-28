@@ -1,6 +1,5 @@
 <?php echo $header; ?>
 <?php echo $content_top; ?>
-<div id="bodyWrapper" class="container_24 ofh">
     <div class="grid_18 push_6" id="bodyContent">
 
 
@@ -39,7 +38,7 @@
             <div class="contentPadd extra-2">
                 <div class="prods_content prods_table">
                     <?php for ($i = 0; $i < count($products); $i = $i + 3) { ?>
-                        <ul id="row-<?php $i ?>" class="row">
+                        <ul id="row-<?php echo $i ?>" class="row">
                             <?php for ($j = 0; $j < 3; $j++) { ?>
                                 <li class="wrapper_prods" style="width:230px;">
                                     <div class="box">
@@ -68,7 +67,7 @@
                                                                                                     <td align="right"><font><?php echo $products[$i+$j]["quantity"]?></font></td>
                                                                                                 </tr></tbody></table></div>
                                                                                     <h2 class="price price_padd"><b>Цена:&nbsp;&nbsp;</b><span class="productSpecialPrice"><?php echo $products[$i+$j]["price"]?></span></h2>
-                                                                                    <div class="button__padd"><div onmouseover="this.className='bg_button2-act';" onmouseout="this.className='bg_button2';" class="bg_button2"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><a role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-secondary" href="http://cms.template-help.com/osc_32995/products_new.php?action=buy_now&amp;products_id=1&amp;osCsid=c30e5eb67884fbf0e63290528b1fcdcb"><span class="ui-button-icon-primary ui-icon ui-icon-cart"></span><span class="ui-button-text">Add&nbsp;to&nbsp;Cart</span></a>				</div>			</div>		</div>	</div></div></div><div onmouseover="this.className='bg_button22-act';" onmouseout="this.className='bg_button22';" class="bg_button22"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><a role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-secondary" href="http://cms.template-help.com/osc_32995/product_info.php?products_id=1?osCsid=c30e5eb67884fbf0e63290528b1fcdcb"><span class="ui-button-icon-primary2 ui-icon ui-icon-triangle-1-e"></span><span class="ui-button-text">Details</span></a>				</div>			</div>		</div>	</div></div></div></div>
+                                                                                    <div class="button__padd"><div onmouseover="this.className='bg_button2-act';" onmouseout="this.className='bg_button2';" class="bg_button2"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><a role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-secondary" href="http://cms.template-help.com/osc_32995/products_new.php?action=buy_now&amp;products_id=1&amp;osCsid=c30e5eb67884fbf0e63290528b1fcdcb"><span class="ui-button-icon-primary ui-icon ui-icon-cart"></span><span class="ui-button-text">В&nbsp;корзину</span></a>				</div>			</div>		</div>	</div></div></div><div onmouseover="this.className='bg_button22-act';" onmouseout="this.className='bg_button22';" class="bg_button22"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><a role="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-secondary" href="http://cms.template-help.com/osc_32995/product_info.php?products_id=1?osCsid=c30e5eb67884fbf0e63290528b1fcdcb"><span class="ui-button-icon-primary2 ui-icon ui-icon-triangle-1-e"></span><span class="ui-button-text">Подробнее</span></a>				</div>			</div>		</div>	</div></div></div></div>
                                                                                 </div></div>
                                                                         </div>
                                                                     </div>
