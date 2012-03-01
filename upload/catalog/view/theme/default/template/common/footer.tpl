@@ -29,16 +29,16 @@
 
     </div> <!-- bodyWrapper //-->
 </div>
-<script src="ext/js/imagepreloader.js" type="text/javascript"></script>
+<script src="/catalog/view/javascript/imagepreloader.js" type="text/javascript"></script>
 <script type="text/javascript">
     preloadImages([
-        'images/wrapper_pic.png',
-        'images/wrapper_pic-act.png',
-        'images/bg_button2.jpg',
-        'images/bg_button.jpg',
-        'images/banners/slide_banner_02.jpg',
-        'images/banners/slide_banner_03.jpg',
-        'images/banners/slide_banner_04.jpg']);
+        '/catalog/view/theme/default/images/wrapper_pic.png',
+        '/catalog/view/theme/default/images/wrapper_pic-act.png',
+        '/catalog/view/theme/default/images/bg_button2.jpg',
+        '/catalog/view/theme/default/images/bg_button.jpg',
+        '/catalog/view/theme/default/images/slide_banner_02.jpg',
+        '/catalog/view/theme/default/images/slide_banner_03.jpg',
+        '/catalog/view/theme/default/images/slide_banner_04.jpg']);
 </script>
 
 </div></body>
