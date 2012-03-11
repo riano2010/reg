@@ -11,12 +11,11 @@
 
 
 
-    <form method="post" action="http://cms.template-help.com/osc_32995/product_info.php?cPath=1&amp;products_id=1&amp;action=add_product&amp;osCsid=c30e5eb67884fbf0e63290528b1fcdcb" name="cart_quantity">
-
+    <form method="post" action="/index.php?route=checkout/cart" name="cart_quantity">
+        <input type="hidden" name="quantity" value="1"/>
+        <input type="hidden" name="product_id" value="<?php echo $product_id; ?>"/>
         <div class="contentContainer page_un">
             <div class="contentPadd extra-7">
-
-
                 <div class="prods_content prods_info decks big">
                     <div class="forecastle">
                         <ol class="masthead">
@@ -31,11 +30,13 @@
                                                     <img width="241" height="241" style="width:241px;height:241px;" alt="" src="<?php echo $popup; ?>">
                                                 </a>
                                             </li>
-                                        </ul>
-                                        <ul class="thumbs" style="width: 280px;">
-                                            <li style="float: left; cursor: pointer; height: 76px;" class="on">
-                                                <img src="<?php echo $thumb; ?>" style="width: 76px; height: 76px;">
+                                            <?php foreach($images as $image) { ?>
+                                            <li class="wrapper_pic_div" style="position: absolute;">
+                                                <a style="width:241px;height:241px;" rel="fancybox" target="_blank" href="<?php echo $image["popup"]; ?>">
+                                                    <img width="241" height="241" style="width:241px;height:241px;" alt="" src="<?php echo $image["popup"]; ?>">
+                                                </a>
                                             </li>
+                                            <?php } ?>
                                         </ul>
                                         <div style="clear: both;"></div>
                                     </div>
@@ -96,9 +97,44 @@
 
 
                                     <div class="buttonSet">
-                                        <span class="buttonAction"><div onmouseover="this.className='bg_button22-act';" onmouseout="this.className='bg_button22';" class="bg_button22"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><span class=""><a href="http://cms.template-help.com/osc_32995/product_reviews.php?cPath=1&amp;products_id=1&amp;osCsid=c30e5eb67884fbf0e63290528b1fcdcb" id="tdb1" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-secondary" role="button"><span class="ui-button-icon-primary ui-icon ui-icon-comment"></span><span class="ui-button-text">Reviews (3)</span></a></span><script type="text/javascript">$("#tdb1").button({icons:{primary:"ui-icon-comment"}}).addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script>				</div>			</div>		</div>	</div></div></div></span>
+                                        <span class="buttonAction">
+                                            <div onmouseover="this.className='bg_button22-act';" onmouseout="this.className='bg_button22';" class="bg_button22">
+                                                <div class="button-t">
+                                                    <div class="button-tl">
+                                                        <div class="button-tr">	
+                                                            <div class="button-bl">
+                                                                <div class="button-br">
+                                                                    <span class="">
+                                                                        <a href="" id="tdb1">Отзывы</a>
+                                                                    </span>
+                                                                    <script type="text/javascript">$("#tdb1").button({icons:{primary:"ui-icon-comment"}}).addClass("ui-priority-secondary").parent().removeClass("tdbLink");</script>
+                                                                </div>	
+                                                            </div>	
+                                                        </div>	
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </span>
 
-                                        <div align="right" class="fl_right"><div onmouseover="this.className='bg_button2-act';" onmouseout="this.className='bg_button2';" class="bg_button2"><input type="hidden" value="1" name="products_id"><div class="button-t">	<div class="button-tl">		<div class="button-tr">			<div class="button-bl">				<div class="button-br"><span class=""><button type="submit" id="tdb2" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-icon-primary ui-priority-primary" role="button" aria-disabled="false"><span class="ui-button-icon-primary ui-icon ui-icon-cart"></span><span class="ui-button-text">Add&nbsp;to&nbsp;Cart</span></button></span><script type="text/javascript">$("#tdb2").button({icons:{primary:"ui-icon-cart"}}).addClass("ui-priority-primary").parent().removeClass("tdbLink");</script>				</div>			</div>		</div>	</div></div></div></div>
+                                        <div align="right" class="fl_right">
+                                            <div onmouseover="this.className='bg_button2-act';" onmouseout="this.className='bg_button2';" class="bg_button2">
+                                                <input type="hidden" value="1" name="products_id">
+                                                <div class="button-t">
+                                                    <div class="button-tl">
+                                                        <div class="button-tr">	
+                                                            <div class="button-bl">
+                                                                <div class="button-br">
+                                                                    <span class="tdbLink">
+                                                                        <button type="submit" id="tdb2">В&nbsp;корзину</button>                                                                        
+                                                                    </span>
+                                                                    <script type="text/javascript">$("#tdb2").button({icons:{primary:"ui-icon-cart"}}).addClass("ui-priority-primary").parent().removeClass("tdbLink");</script>
+                                                                </div>	
+                                                            </div>	
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
 
                                 </div> 
